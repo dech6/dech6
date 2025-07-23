@@ -29,7 +29,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&logoColor=white)
-![T‑SQL](https://img.shields.io/badge/-TSQL-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/-OracleSQL-F80000?logo=oracle&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
