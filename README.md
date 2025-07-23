@@ -49,7 +49,17 @@
 | **SQL Data Warehouse Project** | Modern data warehouse on SQL Server, including ETL processes, data modelling &amp; analytics. | [GitHub](https://github.com/dech6/sql-data-warehouse-project) |
 
 ---
-
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats
+
+<!-- Repos & commits -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=dech6&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark"
+/>
+
+<!-- Streak counter (nuevo dominio) -->
+<img
+  src="https://streak-stats.demolab.com?user=dech6&hide_border=true&theme=github-dark"
+/>
+
+</div>
